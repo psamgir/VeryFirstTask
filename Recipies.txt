@@ -5,6 +5,9 @@ Python
 ML
 Django
 
+tableau
+mysql
+
 
 
 
